@@ -1,0 +1,1 @@
+This is a R htmlwgdet to render GXA anatomogram (see https://github.com/gxa/anatomogram). Using R htmlwidget package templates from http://www.htmlwidgets.org/develop_intro.html 
